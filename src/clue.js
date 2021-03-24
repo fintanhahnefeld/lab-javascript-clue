@@ -103,7 +103,6 @@ function pickMystery(){
     return newObject;
 }
 
-console.log(pickMystery());
 let mysterySolution = pickMystery();
     mysterySolution.suspect.firstName
 
